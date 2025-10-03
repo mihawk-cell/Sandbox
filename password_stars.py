@@ -10,3 +10,4 @@ while True:
 # Output asterisks with the same length as the password
 print("*" * len(password))
 
+
