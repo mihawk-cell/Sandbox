@@ -7,7 +7,7 @@ while True:
     if len(password) >= MIN_LENGTH:
         break
 
-# Output asterisks with the same length as the password
+# Output asterisks with the same length as the passwords
 print("*" * len(password))
 
 
